@@ -7,4 +7,3 @@ python3 -m pip install --upgrade pip
 
 chmod 777 kernel-burger.sh
 chmod 777 cam.py
-chmod 777 ogcam.py
